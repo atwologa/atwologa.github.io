@@ -1,0 +1,36 @@
+#sidepanel{
+  float:left;
+  max-width: 100px;
+  height:100%;
+  border-style: solid;
+  border-color: black;
+  margin: 10px;
+  padding:10px;
+}
+#one{
+  float:right;
+  max-width: 500px;
+  height:auto;
+  border-style: solid;
+  border-color: black;
+  margin: 10px;
+  padding: 10px;
+}
+#two{
+  float: right;
+  max-width: 500px;
+  height:auto;
+  border-style: solid;
+  border-color: black;
+  margin: 10px;
+  padding: 10px;
+}
+#three{
+  float: right;
+  max-width: 500px;
+  height:auto;
+  border-style: solid;
+  border-color: black;
+  margin: 10px;
+  padding: 10px;
+}
