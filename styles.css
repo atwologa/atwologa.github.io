@@ -1,3 +1,6 @@
+#main{
+  max-width: :800px;
+}
 #sidepanel{
   float:left;
   max-width: 100px;
