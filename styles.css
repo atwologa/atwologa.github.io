@@ -1,6 +1,7 @@
 #main{
-  max-width: :800px;
-  align-content: center;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
 }
 #sidepanel{
   float:left;
